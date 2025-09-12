@@ -1,0 +1,2 @@
+A bank loan classification project, there are a lot of insightful plots as well as a map(California) which different classes are showcased.
+Various models are used, both LogReg and KNN performed well with reasonable f1 scores and confusion matrixes.
